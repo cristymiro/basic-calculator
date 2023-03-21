@@ -1,0 +1,20 @@
+{
+  "name": "calculadorajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristymiro/basic-calculator.git"
+  },
+  "keywords": [],
+  "author": "cristymiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristymiro/basic-calculator/issues"
+  },
+  "homepage": "https://github.com/cristymiro/basic-calculator#readme"
+}
