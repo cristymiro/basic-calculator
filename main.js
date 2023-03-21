@@ -74,10 +74,6 @@ rest.addEventListener("click", function(e){
     operator = e.target.innerText;
 });
 
-percent.addEventListener("click", function(e){
-    e.preventDefault();
-    operator = e.target.innerText;
-});
 
 
 result.addEventListener("click", function(e){
